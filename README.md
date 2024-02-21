@@ -40,4 +40,6 @@ The Analysis was divided into following categories:
 - This gives us clear picture of managing the staff based on peak hours & helps to give week off to employees on less order days like Tuesday & Monday and more staff is needed at lunch & dinner timings also help in early preparation of inventory levels according to orders which helps to improve overall operational efficiency.
 - In terms of best combinations, fresh veggie - double cheese margarita were frequently bought together with (support 2.1% & lift of 1.3) followed by delux_veggie - chicken_golden delight, fresh veggie - chicken pepperoni etc. Total 13 combinations were identified which are frequently bought & have strong relationship b/w two products (picture attached above).
 - With these, new combo’s can be added in menu card with best combinations combo pack’s to choose by customers (“ TRY OUR BEST COMBO PIZZA’S”) with offering discounts will improve sales efficiency.
-
+  
+## Acknowledgement:
+-Thanks to dataanalystduo team, for providing the data and Special thanks to kalpesh for your guidence through out the project.
